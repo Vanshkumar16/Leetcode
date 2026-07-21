@@ -158,6 +158,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/Vanshkumar16/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,4 +171,8 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vanshkumar16/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
