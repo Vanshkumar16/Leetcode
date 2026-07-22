@@ -161,6 +161,7 @@ This project is released under the MIT License.
 | [0004-median-of-two-sorted-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/Vanshkumar16/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vanshkumar16/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0441-arranging-coins](https://github.com/Vanshkumar16/Leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,4 +195,8 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vanshkumar16/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Vanshkumar16/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
