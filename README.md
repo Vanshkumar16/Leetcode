@@ -160,6 +160,7 @@ This project is released under the MIT License.
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -172,6 +173,7 @@ This project is released under the MIT License.
 | [0441-arranging-coins](https://github.com/Vanshkumar16/Leetcode/tree/master/0441-arranging-coins) |
 | [0732-my-calendar-iii](https://github.com/Vanshkumar16/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +229,7 @@ This project is released under the MIT License.
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vanshkumar16/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -234,11 +237,13 @@ This project is released under the MIT License.
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
