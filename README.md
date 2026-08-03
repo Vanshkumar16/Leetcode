@@ -312,4 +312,8 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vanshkumar16/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
