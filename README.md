@@ -223,6 +223,7 @@ This project is released under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vanshkumar16/Leetcode/tree/master/0007-reverse-integer) |
 | [0441-arranging-coins](https://github.com/Vanshkumar16/Leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
