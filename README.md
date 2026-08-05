@@ -320,4 +320,5 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vanshkumar16/Leetcode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/Vanshkumar16/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
