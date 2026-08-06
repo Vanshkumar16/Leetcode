@@ -323,4 +323,5 @@ This project is released under the MIT License.
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vanshkumar16/Leetcode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Vanshkumar16/Leetcode/tree/master/0178-rank-scores) |
+| [0185-department-top-three-salaries](https://github.com/Vanshkumar16/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
