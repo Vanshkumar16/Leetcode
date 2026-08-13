@@ -192,6 +192,7 @@ This project is released under the MIT License.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vanshkumar16/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -316,6 +317,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
