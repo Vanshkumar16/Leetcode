@@ -3,32 +3,21 @@ public:
     int largestInteger(vector<int>& nums, int k) {
         int n=nums.size();
         unordered_map<int ,int>freq;
-        for(auto num:nums){
-            freq[num]++;
-        }
-        if(k==1){
-            int ans=-1;
-            for(auto&[num,count]:freq){
-                if(count==1){
-                    ans=max(ans,num);
-                }
+        for(int i=0;i<=n-k;i++){
+            unordered_set<int>unique;
+            for(int j=i;j<i+k;j++){
+                unique.insert(nums[j]);
             }
-            return  ans;
-        }
-        if(k==n){
-            int ans=-1;
-            for(auto&num:nums){
-                ans=max(ans,num);
+            for(auto num:unique){
+                freq[num]++;
             }
-            return ans;
         }
-        int ans=-1;
-        if(freq[nums[0]]==1){
-            ans=max(ans,nums[0]);
+        int result=-1;
+        for(auto&[num,count]:freq){
+            if(count==1){
+                result=max(result,num);
+            }
         }
-        if(freq[nums[n-1]]==1){
-            ans=max(ans,nums[n-1]);
-        }
-        return ans;
+        return result;
     }
 };
