@@ -170,6 +170,7 @@ This project is released under the MIT License.
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vanshkumar16/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vanshkumar16/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -371,4 +372,8 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
