@@ -160,6 +160,7 @@ This project is released under the MIT License.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Vanshkumar16/Leetcode/tree/master/0525-contiguous-array) |
+| [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -257,6 +258,7 @@ This project is released under the MIT License.
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -332,6 +334,7 @@ This project is released under the MIT License.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -343,6 +346,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/Vanshkumar16/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
