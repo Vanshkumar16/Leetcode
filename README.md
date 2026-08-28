@@ -208,12 +208,14 @@ This project is released under the MIT License.
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
@@ -342,6 +344,7 @@ This project is released under the MIT License.
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
