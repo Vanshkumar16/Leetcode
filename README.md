@@ -182,6 +182,7 @@ This project is released under the MIT License.
 | [3875-construct-uniform-parity-array-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ This project is released under the MIT License.
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
 |  |
 | ------- |
