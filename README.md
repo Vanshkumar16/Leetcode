@@ -260,6 +260,7 @@ This project is released under the MIT License.
 | [0441-arranging-coins](https://github.com/Vanshkumar16/Leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vanshkumar16/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/Vanshkumar16/Leetcode/tree/master/1510-stone-game-iv) |
@@ -435,4 +436,8 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
