@@ -167,6 +167,7 @@ This project is released under the MIT License.
 | [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0835-image-overlap) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -297,6 +298,7 @@ This project is released under the MIT License.
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Vanshkumar16/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -396,6 +398,7 @@ This project is released under the MIT License.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshkumar16/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
