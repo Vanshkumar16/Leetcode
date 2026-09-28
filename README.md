@@ -224,6 +224,7 @@ This project is released under the MIT License.
 | [0205-isomorphic-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-distinct-subsequences-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Vanshkumar16/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshkumar16/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -476,4 +477,12 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshkumar16/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
