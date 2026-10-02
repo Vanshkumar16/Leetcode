@@ -176,6 +176,7 @@ This project is released under the MIT License.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/Vanshkumar16/Leetcode/tree/master/1563-stone-game-v) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
@@ -310,6 +311,7 @@ This project is released under the MIT License.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
