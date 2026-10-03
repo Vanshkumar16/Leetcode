@@ -155,6 +155,7 @@ This project is released under the MIT License.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -478,6 +479,7 @@ This project is released under the MIT License.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
 ## Geometry
 |  |
