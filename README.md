@@ -483,6 +483,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Vanshkumar16/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
 ## Geometry
 |  |
