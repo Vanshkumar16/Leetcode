@@ -225,6 +225,7 @@ This project is released under the MIT License.
 | [0020-valid-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -347,6 +348,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vanshkumar16/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshkumar16/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -491,6 +493,7 @@ This project is released under the MIT License.
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Vanshkumar16/Leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Geometry
 |  |
 | ------- |
