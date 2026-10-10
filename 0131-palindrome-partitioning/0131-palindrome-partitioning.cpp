@@ -18,7 +18,7 @@ public:
         }
         for(int i=idx;i<s.size();i++){
             if(palindrome(s.substr(idx,i-idx+1))){
-                subset.emplace_back(s.substr(idx,i-idx+1));
+                subset.push_back(s.substr(idx,i-idx+1));
                 back(i+1,s,ans,subset);
                 subset.pop_back();
             }
