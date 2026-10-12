@@ -183,6 +183,7 @@ This project is released under the MIT License.
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -344,6 +345,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vanshkumar16/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
@@ -374,6 +376,7 @@ This project is released under the MIT License.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -438,6 +441,7 @@ This project is released under the MIT License.
 | [1927-sum-game](https://github.com/Vanshkumar16/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshkumar16/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
