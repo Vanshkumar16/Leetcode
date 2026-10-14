@@ -4,12 +4,17 @@ public:
         if (sum>9*num){
             return "";
         }
-        int rem =sum%9;
-        string ans(sum/9,'9');
-        if(rem>0){
-            ans.push_back('0'+rem);
+        // int rem =sum%9;
+        string ans="";
+        for(int i=0;i<num;i++){
+            if(sum>=9){
+                ans.push_back('9');
+                sum-=9;
+            }else{
+                ans+=(to_string(sum));
+                sum=0;
+            }
         }
-        ans.append(num-ans.size(),'0');
         return ans;
     }
 };
