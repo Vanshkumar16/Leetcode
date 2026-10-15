@@ -6,7 +6,7 @@ public:
         int ans=0;
         for(int i=0;i<n;i++){
             set<int>freq;
-            for(int j=i;j>=0;j--){
+            for(int j=i;j<n;j++){
                 freq.insert(nums[j]);
                 ans+=freq.size()*freq.size();
             }
