@@ -5,7 +5,7 @@ public:
         // unordered_set<int>freq;
         int ans=0;
         for(int i=0;i<n;i++){
-            unordered_set<int>freq;
+            set<int>freq;
             for(int j=i;j>=0;j--){
                 freq.insert(nums[j]);
                 ans+=freq.size()*freq.size();
