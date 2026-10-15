@@ -5,10 +5,10 @@ public:
         // unordered_set<int>freq;
         int ans=0;
         for(int i=0;i<n;i++){
-            set<int>freq;
+            bitset<101>freq;
             for(int j=i;j<n;j++){
-                freq.insert(nums[j]);
-                ans+=freq.size()*freq.size();
+                freq.set(nums[j]);
+                ans+=freq.count()*freq.count();
             }
         }
         return ans;
