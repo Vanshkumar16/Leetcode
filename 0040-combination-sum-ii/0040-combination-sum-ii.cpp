@@ -12,7 +12,7 @@ public:
             return;
         }
         for(int i=idx;i<n;i++){
-            if(i != idx && candidates[i]==candidates[i-1]) continue;
+            if(i > idx && candidates[i]==candidates[i-1]) continue;
 
             sum+=candidates[i];
             subset.push_back(candidates[i]);
