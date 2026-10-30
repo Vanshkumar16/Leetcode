@@ -182,6 +182,7 @@ This project is released under the MIT License.
 | [1563-stone-game-v](https://github.com/Vanshkumar16/Leetcode/tree/master/1563-stone-game-v) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -223,6 +224,7 @@ This project is released under the MIT License.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -436,6 +438,7 @@ This project is released under the MIT License.
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshkumar16/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [3903-smallest-stable-index-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -454,6 +457,7 @@ This project is released under the MIT License.
 | [0633-sum-of-square-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshkumar16/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
