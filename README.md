@@ -306,6 +306,7 @@ This project is released under the MIT License.
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vanshkumar16/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vanshkumar16/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -369,6 +370,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vanshkumar16/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Vanshkumar16/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -483,6 +485,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Vanshkumar16/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
