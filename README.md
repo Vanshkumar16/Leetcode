@@ -159,6 +159,7 @@ This project is released under the MIT License.
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0179-largest-number) |
@@ -242,6 +243,7 @@ This project is released under the MIT License.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Vanshkumar16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0179-largest-number) |
@@ -370,6 +372,7 @@ This project is released under the MIT License.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -546,6 +549,7 @@ This project is released under the MIT License.
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Vanshkumar16/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Vanshkumar16/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -580,4 +584,8 @@ This project is released under the MIT License.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vanshkumar16/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
