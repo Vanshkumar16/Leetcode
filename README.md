@@ -243,6 +243,7 @@ This project is released under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshkumar16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vanshkumar16/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Vanshkumar16/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
@@ -395,6 +396,7 @@ This project is released under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vanshkumar16/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vanshkumar16/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vanshkumar16/Leetcode/tree/master/0198-house-robber) |
@@ -503,6 +505,7 @@ This project is released under the MIT License.
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vanshkumar16/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/Vanshkumar16/Leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vanshkumar16/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshkumar16/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
