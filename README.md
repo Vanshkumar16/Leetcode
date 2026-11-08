@@ -177,6 +177,7 @@ This project is released under the MIT License.
 | [0922-sort-array-by-parity-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Vanshkumar16/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -386,6 +387,7 @@ This project is released under the MIT License.
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -449,6 +451,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1854-maximum-population-year](https://github.com/Vanshkumar16/Leetcode/tree/master/1854-maximum-population-year) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vanshkumar16/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -607,4 +610,13 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
