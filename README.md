@@ -185,6 +185,7 @@ This project is released under the MIT License.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vanshkumar16/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/Vanshkumar16/Leetcode/tree/master/1563-stone-game-v) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Vanshkumar16/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshkumar16/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/Vanshkumar16/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -309,6 +310,7 @@ This project is released under the MIT License.
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vanshkumar16/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0732-my-calendar-iii](https://github.com/Vanshkumar16/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Vanshkumar16/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Math
 |  |
 | ------- |
@@ -379,6 +381,7 @@ This project is released under the MIT License.
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshkumar16/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Vanshkumar16/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Vanshkumar16/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vanshkumar16/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
@@ -560,6 +563,7 @@ This project is released under the MIT License.
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Vanshkumar16/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vanshkumar16/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshkumar16/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
