@@ -155,6 +155,7 @@ This project is released under the MIT License.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vanshkumar16/Leetcode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
@@ -388,6 +389,7 @@ This project is released under the MIT License.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0835-image-overlap) |
@@ -426,6 +428,7 @@ This project is released under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshkumar16/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Vanshkumar16/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -573,6 +576,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshkumar16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
@@ -625,4 +629,12 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Vanshkumar16/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
