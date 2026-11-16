@@ -160,6 +160,7 @@ This project is released under the MIT License.
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -228,6 +229,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vanshkumar16/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Vanshkumar16/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Vanshkumar16/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -398,6 +400,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Vanshkumar16/Leetcode/tree/master/0835-image-overlap) |
