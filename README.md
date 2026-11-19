@@ -160,6 +160,7 @@ This project is released under the MIT License.
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vanshkumar16/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vanshkumar16/Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Vanshkumar16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -605,6 +606,7 @@ This project is released under the MIT License.
 | [0039-combination-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vanshkumar16/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Vanshkumar16/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Vanshkumar16/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Vanshkumar16/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vanshkumar16/Leetcode/tree/master/0089-gray-code) |
@@ -659,6 +661,7 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vanshkumar16/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Vanshkumar16/Leetcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
