@@ -197,6 +197,7 @@ This project is released under the MIT License.
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Vanshkumar16/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -380,6 +381,7 @@ This project is released under the MIT License.
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1943-describe-the-painting](https://github.com/Vanshkumar16/Leetcode/tree/master/1943-describe-the-painting) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Vanshkumar16/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vanshkumar16/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -530,6 +532,7 @@ This project is released under the MIT License.
 | [1927-sum-game](https://github.com/Vanshkumar16/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshkumar16/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshkumar16/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vanshkumar16/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshkumar16/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshkumar16/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
