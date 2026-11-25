@@ -277,6 +277,7 @@ This project is released under the MIT License.
 | [0940-distinct-subsequences-ii](https://github.com/Vanshkumar16/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vanshkumar16/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vanshkumar16/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshkumar16/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Vanshkumar16/Leetcode/tree/master/1927-sum-game) |
@@ -706,4 +707,24 @@ This project is released under the MIT License.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vanshkumar16/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Vanshkumar16/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
